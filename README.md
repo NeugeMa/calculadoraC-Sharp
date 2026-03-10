@@ -2,7 +2,11 @@
 Uma aplicação em **C#** que implementa uma calculadora com as operações básicas: adição, subtração, multiplicação e divisão.
 
 ### Integrantes 
+- Beatriz Vieira de Novais | RM554746
+- Guilherme Abe | RM554743
+- Gustavo Ruiz Vieira Paulino | RM554779
 - Mariana Neugebauer Dourado | RM550494
+- Victor Pacifico Dias | RM558017
 
 ---
 
